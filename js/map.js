@@ -4,7 +4,7 @@ var map = L.mapbox.map('map', 'mapbox.light', { zoomControl: false, attributionC
 //map.scrollWheelZoom.disable();
 //var raceRoute = L.mapbox.featureLayer().addTo(map);
 var confVenues = L.mapbox.featureLayer().addTo(map);
-confVenues.loadURL('/assets/map.geojson')
+confVenues.loadURL('../assets/map.geojson')
     .on('ready', done);
 
 function done() {
