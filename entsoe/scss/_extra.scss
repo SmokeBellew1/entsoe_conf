@@ -1,0 +1,49 @@
+.icon {
+
+    > svg {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        vertical-align: middle;
+
+        path {
+            fill: #2c296b;
+        }
+    }
+}
+
+.contain-to-grid {border-bottom: 10px solid #57375e;}
+.speakers {text-align:center;}
+.speakers .title, .speakers .sub-title {line-height:1;margin-bottom:0;font-size:1.125rem;}
+.speakers span {display:block;}
+.speakers .sub-title {font-size:12px; color:#444;padding-top:3px;}
+figcaption .sub-title:nth-child(even) {font-weight:500;}
+
+.speaker-list p {font-weight:200;}
+.speaker .thumb {padding-top:2em; max-width:200px;}
+.speaker .name, .speaker .sub-title {line-height:1;margin-bottom:0;}
+.speaker .sub-title {color:#444;padding-top:3px;display:block;}
+.speaker .sub-title:nth-child(even) {font-weight:500;}
+
+
+
+.pad3 {padding: 2.5em 0;}
+.pad0 { padding:5px;}
+.dot {border-radius:50%; margin-right:5px;display:inline-block;}
+.fill-keynote {
+	background-color:$alert-color;
+}
+.fill-session {background-color:$success-color;}
+
+.speaker-row {border-bottom: 5px solid #57375e;}
+.speaker-row:last-child {margin-bottom:2em;}
+
+.programme-row {border-bottom: 1px solid $smoke; padding:2em;}
+
+
+.talk .sub-title {display:inline-block;font-size:0.8rem;}
+
+.talk-body {padding-top:1.75em;}
+
+.nav-link a {font-weight:200;}
+.nav-link {padding-bottom:1em;}
