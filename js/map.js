@@ -1,10 +1,12 @@
+---
+---
 L.mapbox.accessToken = 'pk.eyJ1IjoibWFwYm94IiwiYSI6ImdQMzI4WjgifQ.d-Uyr7NBjrJVz9z82uk5Xg';
 
 var map = L.mapbox.map('map', 'mapbox.light', { zoomControl: false, attributionControl: false });
 //map.scrollWheelZoom.disable();
 //var raceRoute = L.mapbox.featureLayer().addTo(map);
 var confVenues = L.mapbox.featureLayer().addTo(map);
-confVenues.loadURL('../assets/map.geojson')
+confVenues.loadURL('{{'/assets/map.geojson' | prepend:site.baseurl }}')
     .on('ready', done);
 
 function done() {
