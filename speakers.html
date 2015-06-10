@@ -12,18 +12,15 @@ permalink: /speakers/
   {% for post in site.categories.speaker %}
 
     <div class="row pad3 speaker-row">
-      <div class="small-4 medium-4 large-3 columns speaker">
-        
+      <div class="small-12 medium-4 large-3 columns speaker small-only-text-center">
           <h3 id="{{ post.name | slugify }}" class="name">{{post.name}}</h3>
           <span class="sub-title">{{post.wtitle}}</span>
           <span class="sub-title">{{post.org}}</span>
           <img class="thumb" src="{{post.thumb}}" />
       </div>
-      <div class="small-4 medium-4 large-6 columns">
-        {{post.content}}
-      </div>
-      <div class="small-4 medium-4 large-3 columns">
-        <dl>
+      
+      <div class="small-12 large-push-6 medium-4 large-3 columns small-only-text-center">
+        <dl class="bio">
           <dt>On the Web</dt>
           <dd><a href="{{page.web}}">{{post.web | truncate: 30}}</a> </dd>
           <dt>Twitter</dt>
@@ -39,6 +36,9 @@ permalink: /speakers/
       </dd>
         </dl>
         
+      </div>
+      <div class="small-12 large-pull-3 medium-4 large-6 columns">
+        {{post.content}}
       </div>
     </div>
   {% endfor %}

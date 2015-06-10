@@ -24,7 +24,7 @@ figcaption .sub-title:nth-child(even) {font-weight:500;}
 .speaker .name, .speaker .sub-title {line-height:1;margin-bottom:0;}
 .speaker .sub-title {color:#444;padding-top:3px;display:block;}
 .speaker .sub-title:nth-child(even) {font-weight:500;}
-
+.speaker img {padding-bottom:1em;}
 
 
 .pad3 {padding: 2.5em 0;}
@@ -47,3 +47,5 @@ figcaption .sub-title:nth-child(even) {font-weight:500;}
 
 .nav-link a {font-weight:200;}
 .nav-link {padding-bottom:1em;}
+
+.bio {padding-top:0;line-height:1.2;}
