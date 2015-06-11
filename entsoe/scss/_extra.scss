@@ -56,3 +56,9 @@ figcaption .sub-title:nth-child(even) {font-weight:500;}
 .nav-link {padding-bottom:1em;}
 
 .bio {padding-top:0;line-height:1.2;}
+
+
+// Using the available options
+.register {
+  @include button(false, $gold_yellow, false, false, false, false);
+}
