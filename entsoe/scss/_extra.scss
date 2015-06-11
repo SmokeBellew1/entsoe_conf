@@ -8,9 +8,16 @@
 
         path {
             fill: #2c296b;
+
+
         }
+        
     }
 }
+
+.icons a:hover > svg path {
+            fill:$link-hover-colour;
+        }
 
 .contain-to-grid {border-bottom: 10px solid #57375e;}
 .speakers {text-align:center;}
