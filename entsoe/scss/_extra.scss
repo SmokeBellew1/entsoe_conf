@@ -14,8 +14,8 @@
         
     }
 }
-
-.icons a:hover > svg path {
+.icons a {padding-left:5px;}
+.icons a:hover svg path {
             fill:$link-hover-colour;
         }
 
