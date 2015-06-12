@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 ## Daily Media Review – 12 June 2015
 _Dear colleagues, 
