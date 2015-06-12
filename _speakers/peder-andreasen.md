@@ -2,8 +2,6 @@
 layout: speaker
 category: speaker
 
-permalink: /speaker/peder-andreasen
-
 name: Peder Andreasen
 
 wtitle: "President"

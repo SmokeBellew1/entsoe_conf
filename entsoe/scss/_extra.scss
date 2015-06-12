@@ -60,5 +60,5 @@ figcaption .sub-title:nth-child(even) {font-weight:500;}
 
 // Using the available options
 .register {
-  @include button(false, $gold_yellow, false, false, false, false);
+  @include button(false, $gold_yellow, 2px, false, false, false);
 }

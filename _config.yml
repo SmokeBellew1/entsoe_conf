@@ -14,3 +14,8 @@ twitter_username: ENTSO_E
 markdown: kramdown
 
 exclude: [entsoe]
+
+collections:
+  speakers:
+    output: true
+    permalink: /speakers/:path/

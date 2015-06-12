@@ -2,8 +2,6 @@
 layout: speaker
 category: speaker
 
-permalink: /speaker/martin-schulz
-
 name: Martin Schulz
 
 talk: "My Amazing Talk"

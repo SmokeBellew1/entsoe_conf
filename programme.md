@@ -28,7 +28,7 @@ permalink: /programme/
           </div>
       </div>
       <div class="small-12 medium-2 large-3 columns last text-center speakers">
-        {% for s in site.categories.speaker %}
+        {% for s in site.speakers %}
         {% if s.name == post.tags.first %}
         <a href="{{ s.url | prepend: site.baseurl }}">
           <img src="{{s.thumb}}" style="max-width:150px; padding-top:1em;"></a>

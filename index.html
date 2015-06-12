@@ -61,10 +61,25 @@ layout: default
 
 <div class="row" style="padding-top:5em;">
 
-  <div class="small-12 medium-6 large-12 columns text-center">
+  <div class="small-12 medium-12 large-12 columns text-center">
     <h3 id="what-can-be-achieved-by-2019-">The Speakers</h3>
     <p>ENTSO-E has assembled the key players in the European Energy Sector.</p>
-    <ul class="large-block-grid-5 small-block-grid-2 speakers">
+    <ul class="small-block-grid-2 medium-block-grid-5 large-block-grid-5 speakers">
+      {% for speaker in site.speakers %}
+      
+      <li>
+        <img src="{{speaker.thumb}}">
+        <figcaption>
+          <h4 class="title">{{speaker.name}}</h4>
+          <span class="sub-title">{{speaker.wtitle}}</span>
+          <span class="sub-title">{{speaker.org}}</span>
+        </figcaption>
+      </li>
+      
+      {% endfor %}
+    </ul>
+
+    <!--<ul class="small-block-grid-2 medium-block-grid-5 large-block-grid-5   speakers">
       <li>
         <img src="https://s3-eu-west-1.amazonaws.com/summitid/people/39294/medium/Bono_copy.jpg?1414688646">
         <figcaption>
@@ -138,22 +153,22 @@ layout: default
           <span class="sub-title">Commissioner</span>
           <span class="sub-title">European Commission</span>
         </li>
-      </ul>
+      </ul>-->
     </div>
 
   </div>
 
   <div class="row" style="padding-top:5em;">
-  <div class="small-12 medium-12 large-12 columns text-center">
-    <h3>The Venue</h3>
-    <p>The ENTSOE-E Annual Conference 2015 will take place in the Crowne Plaza Hotel, located in the heart of Brussels near Rogier.</p>
-    <iframe height="300" width="100%" frameborder="0" style="border:0" src="{{ '/map.html' | prepend: site.baseurl }}"></iframe>
-  </div>
-  <div class="small-12 medium-6 large-6 columns">
+    <div class="small-12 medium-12 large-12 columns text-center">
+      <h3>The Venue</h3>
+      <p>The ENTSOE-E Annual Conference 2015 will take place in the Crowne Plaza Hotel, located in the heart of Brussels near Rogier.</p>
+      <iframe height="300" width="100%" frameborder="0" style="border:0" src="{{ '/map.html' | prepend: site.baseurl }}"></iframe>
+    </div>
+    <div class="small-12 medium-6 large-6 columns">
+      
+    </div>
     
   </div>
-  
-</div>
 
 
 <!--<div class="home">
