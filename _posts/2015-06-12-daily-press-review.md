@@ -1,6 +1,7 @@
 ---
 published: true
 title: Test
+layout: "page1"
 ---
 
 
