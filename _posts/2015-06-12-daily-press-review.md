@@ -1,6 +1,8 @@
 ---
 published: true
+title: Test
 ---
+
 
 
 ## Daily Media Review – 12 June 2015
