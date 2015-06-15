@@ -49,5 +49,5 @@ http://www.navigantresearch.com/blog/regional-tensions-surround-baltic-sea-subma
 
 
 #### **Note:**
-_The Corporate Affairs Team is currently conducting a daily monitoring of media and European institutions political developments through subscriptions to three agencies’ services: Melwater News, Dods, and Bernard Energy Advocacy. If you would like to access the detailed reports, feel free to contact us. _
+_The Corporate Affairs Team is currently conducting a daily monitoring of media and European institutions political developments through subscriptions to three agencies’ services: Melwater News, Dods, and Bernard Energy Advocacy. If you would like to access the detailed reports, feel free to contact us._
 
