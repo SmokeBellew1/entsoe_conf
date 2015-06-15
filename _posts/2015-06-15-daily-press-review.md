@@ -1,3 +1,8 @@
+---
+layout: page1
+title: Daily Media Review – 15 June 2015
+published: true
+---
 ## Daily Media Review – 15 June 2015
 
 _Dear colleagues,_ 
