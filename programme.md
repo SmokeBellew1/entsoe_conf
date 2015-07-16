@@ -35,7 +35,7 @@ permalink: /programme/
         
         {% if post.tags contains s.name %}
         <a href="{{ s.url | prepend: site.baseurl }}">
-          <img src="{{s.thumb}}" style="max-width:100px; padding-top:1em;"></a>
+          <img src="{{s.thumb}}" style="max-width:100px; padding-top:1em;">
           <figcaption>
             <h4 class="title">{{s.name}}</h4>
             <span class="sub-title">{{s.wtitle}}</span>
