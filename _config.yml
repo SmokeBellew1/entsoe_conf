@@ -1,7 +1,8 @@
 # Site settings
 title: 'ENTSO-E Annual Conference 2015, Brussels'
 email: info@entsoe.eu
-description: > # ENTSO-E's Annual Conference will take place on 20 November 2015 in Brussels.
+description: > 
+  ENTSO-E's Annual Conference will take place on 20 November 2015 in Brussels.
   Partners for this event are the Florence School of Regulation and the Renewable Grid 
   Initiative. This event is organised under the patronage of the Luxembourg Presidency of the Council.
 baseurl: "/entsoe_conf" # the subpath of your site, e.g. /blog/
