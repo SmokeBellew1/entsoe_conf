@@ -13,7 +13,7 @@
       <!-- Right Nav Section -->
       <ul class="right">
         {% for page in site.pages %}
-        {% if page.title %}
+        {% if page.title and page.title != 'Home'%}
           <li class=""><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
         {% endif %}
         {% endfor %}
