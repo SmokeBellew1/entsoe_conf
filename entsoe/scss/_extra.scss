@@ -66,3 +66,6 @@ figcaption .sub-title:nth-child(even) {font-weight:500;}
 .register {
   @include button(false, $gold_yellow, 2px, false, false, false);
 }
+ul.sponsors {margin-bottom: 0;}
+.sponsors li {margin-left:.3rem;}
+.sponsors li img {max-width:250px;}
