@@ -5,9 +5,7 @@ org: "RGI"
 
 web: "http://www.renewables-grid.eu/"
 twitter: "Theresa_RGI"
-
-
-thumb: "https://s3-eu-west-1.amazonaws.com/summitid/people/39294/medium/Bono_copy.jpg?1414688646"
+thumb: "http://renewables-grid.eu/typo3temp/pics/890c90b5a7.jpg"
 full_image: ""
 
 ---
