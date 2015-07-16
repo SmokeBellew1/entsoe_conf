@@ -8,7 +8,7 @@ description: >
 baseurl: "/entsoe_conf" # the subpath of your site, e.g. /blog/
 url: "http://rustyb.github.io" # the base hostname & protocol for your site
 twitter_username: ENTSO_E
-locale: en
+locale: en_GB
 #github_username:  jekyll
 
 # Build settings
