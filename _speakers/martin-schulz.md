@@ -1,9 +1,6 @@
----
-layout: speaker
-category: speaker
-
+<!-----
+published: false
 name: Martin Schulz
-
 talk: "My Amazing Talk"
 wtitle: "President"
 org: "European Parliament"
@@ -12,12 +9,11 @@ web: "http://cbroderick.me"
 twitter: "rusty1052"
 
 
-thumb: "https://s3-eu-west-1.amazonaws.com/summitid/people/39056/medium/elon.jpg?1408478846"
+thumb: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Schulz%2C_Martin-2047.jpg/511px-Schulz%2C_Martin-2047.jpg"
 full_image: ""
 
 tag: 
     - Martin Schulz
-
 ---
 
 Martin Schulz was born on 20 December 1955 and grew up in Hehlrath Germany, close to the German-Dutch-Belgian borders. After high school he decided to try to make a living out of his passion for books and he did an apprenticeship as a bookseller. In 1982 he opened his own bookstore in Würselen, which he successfully ran for 12 years.
@@ -30,4 +26,4 @@ In 2004 he was elected group leader of the second largest group in the European 
 
 Martin Schulz was elected President of the European Parliament on 17 January 2012 for a mandate of two and half years with 387 votes. On 1 July 2014 he was re-elected President with 409 votes, becoming the first President in the history of the European Parliament to be re-elected for a second term.
 
-He is married with two children, and his hobbies include reading, history and football. Among his favourite books is "the Leopard" by Tomasi di Lampedusa and all books of Eric Hobsbawm.
+He is married with two children, and his hobbies include reading, history and football. Among his favourite books is "the Leopard" by Tomasi di Lampedusa and all books of Eric Hobsbawm.-->

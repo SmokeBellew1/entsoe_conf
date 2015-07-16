@@ -22,14 +22,14 @@ permalink: /speakers/
       <div class="small-12 large-push-6 medium-4 large-3 columns small-only-text-center">
         <dl class="bio">
           <dt>On the Web</dt>
-          <dd><a href="{{page.web}}">{{post.web | truncate: 30}}</a> </dd>
+          <dd><a href="{{post.web}}">{{post.web | truncate: 30}}</a> </dd>
           <dt>Twitter</dt>
           <dd><a href="https://twitter.com/{{page.twitter}}">@{{post.twitter}}</a></dd>
           <dt>Talk</dt>
           <dd>
             {% for s in site.categories.programme %}
             {% if s.tags contains post.name %}
-              <a href="{{s.url | prepend: site.baseurl}}">{{s.title | truncate: 30}}</a>
+              <a style="display:block;padding-bottom:1em;" href="{{s.url | prepend: site.baseurl}}">{{s.title}}</a>
             {% endif %}
             {% endfor %}
 

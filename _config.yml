@@ -19,3 +19,13 @@ collections:
   speakers:
     output: true
     permalink: /speakers/:path/
+
+defaults:
+  -
+    scope:
+      path: 'speakers'
+      type: speakers
+    values:
+      layout: 'speaker'
+      category: 'speaker'
+      thumb: "https://s3-eu-west-1.amazonaws.com/summitid/people/39294/medium/Bono_copy.jpg?1414688646"

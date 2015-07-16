@@ -11,7 +11,7 @@ permalink: /programme/
 </div>
 <div class="row">
   <div class="large-12 small-12 large-centered columns ">
-    {% for post in site.categories.programme %}
+    {% for post in site.categories.programme reversed %}
     <div class="row programme-row">
       <div class="small-1 medium-1 large-1 columns">
         <strong>{{post.start_time}}</strong>
@@ -24,7 +24,7 @@ permalink: /programme/
         </strong>
         </a>
           <div class="talk-body">
-            {{post.excerpt}}
+            {{post.content}}
           </div>
       </div>
       <div class="small-12 medium-2 large-3 columns last text-center speakers">
