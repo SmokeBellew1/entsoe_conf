@@ -7,7 +7,7 @@ web: "http://www.entsoe.eu"
 twitter: "NiesSusanne"
 
 
-thumb: "https://s3-eu-west-1.amazonaws.com/summitid/people/39294/medium/Bono_copy.jpg?1414688646"
+thumb: "https://pbs.twimg.com/profile_images/581198878860394496/bbU8gXrU.jpg"
 full_image: ""
 
 ---
