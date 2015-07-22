@@ -1,5 +1,5 @@
 ---
-name: fabien roques
+name: Fabien Roques
 wtitle: "Senior Vice President, FTI"
 org: "FTI"
 

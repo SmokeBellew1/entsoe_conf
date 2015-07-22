@@ -1,5 +1,5 @@
 ---
-name: marie donnelly
+name: Marie Donnelly
 wtitle: "Director, Dir. C, DG ENER"
 org: "European Commission"
 

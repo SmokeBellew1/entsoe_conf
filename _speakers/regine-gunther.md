@@ -1,5 +1,5 @@
 ---
-name: regine günther
+name: Regine Günther
 wtitle: "Head of Climate and Energy Policy"
 org: "WWF Germany"
 

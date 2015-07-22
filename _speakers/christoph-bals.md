@@ -1,5 +1,5 @@
 ---
-name: christoph bals
+name: Christoph Bals
 wtitle: "Policy Director"
 org: "Germanwatch"
 

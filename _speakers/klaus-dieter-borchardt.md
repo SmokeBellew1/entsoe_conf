@@ -1,5 +1,5 @@
 ---
-name: klaus-dieter borchardt
+name: Klaus-Dieter Borchardt
 wtitle: "Director, Directorate B: Internal Energy Market"
 org: "European Commission"
 

@@ -1,5 +1,5 @@
 ---
-name: stephan reimelt
+name: Stephan Reimelt
 wtitle: "CEO"
 org: "General Electric Europe"
 

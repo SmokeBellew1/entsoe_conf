@@ -1,5 +1,5 @@
 ---
-name: daniel dobbeni
+name: Daniel Dobbeni
 wtitle: "President"
 org: "GO15"
 

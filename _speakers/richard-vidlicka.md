@@ -1,5 +1,5 @@
 ---
-name: richard vidlicka
+name: Richard Vidlicka
 wtitle: "Chairman of the Board of Directors, General Manager"
 org: "ČEZ Distribuce "
 

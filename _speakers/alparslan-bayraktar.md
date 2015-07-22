@@ -1,5 +1,5 @@
 ---
-name: alparslan bayraktar
+name: Alparslan Bayraktar
 wtitle: "Chairman"
 org: "ICER"
 
