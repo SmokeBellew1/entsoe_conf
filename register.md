@@ -37,7 +37,7 @@ Registration for the conference will open shortly.
 The following exceptions to the Registration fee apply:
 
 - Conference attendence fee will be waved if registration is completely using an official EU institution email address.
-- If you are an interns, student or currentyl an acedemic.
+- If you are an interns, student or currently an academic.
 
 If you have any queries regarding the conference please do not hestiate to contact us at [__info@entsoe.eu__](mailto:info@entsoe.eu)
 
