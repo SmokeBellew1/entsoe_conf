@@ -7,7 +7,7 @@ web: "http://www.icer-regulators.net/"
 twitter: "abayraktar1"
 
 
-thumb: "https://pbs.twimg.com/profile_images/516971807455580160/t1-uMWlc_400x400.jpeg"
+thumb: "https://pbs.twimg.com/profile_images/634241792137936896/MqIc4DRI_400x400.jpg"
 full_image: ""
 
 ---
