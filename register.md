@@ -22,7 +22,7 @@ permalink: /register/
 ### Key Dates
 
 Registration Opens: <br>
-__September, 2015__
+__September 14th, 2015__
 
 Registration Closes: <br>
 __November 18th, 2015__
@@ -34,9 +34,17 @@ __November 19th, 2015__
 <div class="large-8 columns prose" markdown="1">
 Registration for the conference will open shortly.
 
-The following exceptions to the Registration fee apply:
+<!-- place this in your head tag -->
+<script src='https://js.tito.io/v1' async></script>
+<link rel="stylesheet" type="text/css" href='https://css.tito.io/v1' />
+
+<!-- Place this where you want the widget to appear -->
+<tito-widget event="entso-e/entso-e-annual-conference-2015"></tito-widget>
+
+The following exceptions to the ticket registration fee apply:
 
 - Conference attendence fee will be waved if registration is completely using an official EU institution email address.
+
 - If you are an interns, student or currently an academic.
 
 If you have any queries regarding the conference please do not hestiate to contact us at [__info@entsoe.eu__](mailto:info@entsoe.eu)

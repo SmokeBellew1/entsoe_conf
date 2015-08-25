@@ -30,7 +30,7 @@ title: 'Home'
 
 <div class="row" >
   <div class="large-6 small-10 small-centered large-uncentered medium-uncentered columns" style="padding-top:1em;">
-    <a class="button large register radius" href="#"><strong>Register Today</strong></a>
+    <a class="button large register radius" href="{{ '/register'| prepend: site.baseurl }}"><strong>Register Today</strong></a>
   </div>
 </div>
 
@@ -65,7 +65,7 @@ title: 'Home'
     <p><strong>ENTSO-E will reveal its recommendations on better regulation in energy, on market design and innovation, on security of supply, and on energy regions</strong>. In all of these, innovation on the one hand, and the citizen, on the other, play a central role. With the energy transition, new stakeholders and market players get on board and offer a wide range of opportunities for customers, enabling them to be present in all markets. </p>
   </div>
   <div class="small-12 medium-6 large-6 columns">
-    <img src="http://placehold.it/450x300">
+    <img src="{{'/img/front_page.jpg' | prepend: site.baseurl}}">
   </div>
 </div>
 
