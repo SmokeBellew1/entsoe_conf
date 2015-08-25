@@ -23,8 +23,10 @@ permalink: /speakers/
         <dl class="bio">
           <dt>On the Web</dt>
           <dd><a href="{{post.web}}">{{post.web | truncate: 30}}</a> </dd>
+          {% unless post.twitter == ''%}
           <dt>Twitter</dt>
-          <dd><a href="https://twitter.com/{{page.twitter}}">@{{post.twitter}}</a></dd>
+          <dd><a href="https://twitter.com/{{post.twitter}}">@{{post.twitter}}</a></dd>
+          {% endunless %}
           <dt>Speaking on:</dt>
           <dd>
             {% for s in site.categories.programme %}
