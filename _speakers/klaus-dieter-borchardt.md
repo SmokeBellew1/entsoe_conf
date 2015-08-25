@@ -11,3 +11,5 @@ thumb: "http://www.cerre.eu/sites/cerre/files/customer_data/Klaus%20Dieter%20Bor
 full_image: ""
 
 ---
+
+Speaker bio to be confirmed.

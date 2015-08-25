@@ -11,3 +11,5 @@ thumb: "http://19t1my39op3g1lrrb43v6xa0.wpengine.netdna-cdn.com/wp-content/uploa
 full_image: ""
 
 ---
+
+Speaker bio to be confirmed.

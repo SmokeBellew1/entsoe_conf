@@ -11,3 +11,5 @@ thumb: "http://www.icbi-flame.com/appdata/page/flame-conference/Kamphues_Stephan
 full_image: ""
 
 ---
+
+Speaker bio to be confirmed.

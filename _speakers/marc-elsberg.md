@@ -11,3 +11,5 @@ thumb: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Marc_Elsberg_J
 full_image: ""
 
 ---
+
+Speaker bio to be confirmed.

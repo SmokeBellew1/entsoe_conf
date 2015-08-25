@@ -11,3 +11,5 @@ thumb: "http://www.eurelectric.org/media/81802/mexia.jpg"
 full_image: ""
 
 ---
+
+Speaker bio to be confirmed.

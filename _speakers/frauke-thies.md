@@ -11,3 +11,5 @@ thumb: "http://www.solarpowereurope.org/fileadmin/user_upload/images/Team/FThies
 full_image: ""
 
 ---
+
+Speaker bio to be confirmed.

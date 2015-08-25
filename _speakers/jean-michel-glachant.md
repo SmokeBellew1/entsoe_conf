@@ -9,3 +9,5 @@ thumb: "https://s3-eu-west-1.amazonaws.com/summitid/people/39294/medium/Bono_cop
 full_image: ""
 
 ---
+
+Speaker bio to be confirmed.

@@ -10,3 +10,5 @@ thumb: "https://www.entsoe.eu/PublishingImages/board/matteo_del_fante.jpg"
 full_image: ""
 
 ---
+
+Speaker bio to be confirmed.

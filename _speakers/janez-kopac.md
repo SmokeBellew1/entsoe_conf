@@ -11,3 +11,5 @@ thumb: "https://www.energy-community.org/pls/portal/ECPHOTO.Render?p_pho_id=141&
 full_image: ""
 
 ---
+
+Speaker bio to be confirmed.

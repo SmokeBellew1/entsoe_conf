@@ -11,3 +11,5 @@ thumb: "http://www.gridconference.eu/wp-content/uploads/2015/01/Marie-Donnelly.j
 full_image: ""
 
 ---
+
+Speaker bio to be confirmed.

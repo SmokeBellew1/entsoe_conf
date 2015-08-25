@@ -11,3 +11,5 @@ thumb: "http://www.ge.com/europe/images/stephan-reimelt.jpg"
 full_image: ""
 
 ---
+
+Speaker bio to be confirmed.

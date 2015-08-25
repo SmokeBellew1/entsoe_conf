@@ -10,3 +10,5 @@ thumb: "http://www.wwf.de/fileadmin/user_upload/Bilder/350-Regine-Guenther-_c_-L
 full_image: ""
 
 ---
+
+Speaker bio to be confirmed.

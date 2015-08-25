@@ -11,3 +11,5 @@ thumb: "http://annual-conference.energystorage.org/files/styles/speaker_portrait
 full_image: ""
 
 ---
+
+Speaker bio to be confirmed.

@@ -11,3 +11,5 @@ thumb: "https://germanwatch.org/sites/germanwatch.org/files/images/Christoph-Bal
 full_image: ""
 
 ---
+
+Speaker bio to be confirmed.

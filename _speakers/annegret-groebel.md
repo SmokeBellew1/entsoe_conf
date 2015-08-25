@@ -11,3 +11,5 @@ thumb: "http://www.ceer.eu/portal/pls/portal/docs/1/21966555.JPG"
 full_image: ""
 
 ---
+
+Speaker bio to be confirmed.

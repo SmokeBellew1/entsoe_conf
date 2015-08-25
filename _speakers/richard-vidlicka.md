@@ -11,3 +11,5 @@ thumb: "http://www.cezdistribuce.cz/edee/content/img/pro-media/motive/internet-f
 full_image: ""
 
 ---
+
+Speaker bio to be confirmed.

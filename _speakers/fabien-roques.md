@@ -11,3 +11,5 @@ thumb: "https://compass-lexecon.s3.amazonaws.com/prod/professionals/images/8de66
 full_image: ""
 
 ---
+
+Speaker bio to be confirmed.

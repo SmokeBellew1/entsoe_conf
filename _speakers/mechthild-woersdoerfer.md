@@ -11,3 +11,5 @@ thumb: "https://pbs.twimg.com/profile_images/570976293227728896/1seqNvpK.jpeg"
 full_image: ""
 
 ---
+
+Speaker bio to be confirmed.

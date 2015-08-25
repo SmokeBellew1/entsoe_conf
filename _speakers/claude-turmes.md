@@ -11,3 +11,5 @@ thumb: "http://www.europarl.europa.eu/mepphoto/4432.jpg"
 full_image: ""
 
 ---
+
+Speaker bio to be confirmed.

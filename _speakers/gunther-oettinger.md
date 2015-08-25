@@ -11,3 +11,5 @@ thumb: "https://ec.europa.eu/commission/sites/cwt/files/styles/biography_portrai
 full_image: ""
 
 ---
+
+Speaker bio to be confirmed.
