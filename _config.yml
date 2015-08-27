@@ -6,7 +6,7 @@ description: >
   Partners for this event are the Florence School of Regulation and the Renewable Grid 
   Initiative. This event is organised under the patronage of the Luxembourg Presidency of the Council.
 baseurl: "/entsoe_conf" # the subpath of your site, e.g. /blog/
-url: "http://rustyb.github.io" # the base hostname & protocol for your site
+url: "http://conference.entsoe.eu" # the base hostname & protocol for your site
 twitter_username: ENTSO_E
 locale: en_GB
 #github_username:  jekyll
