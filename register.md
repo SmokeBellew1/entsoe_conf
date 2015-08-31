@@ -4,6 +4,15 @@ title: "Register"
 permalink: /register/
 ---
 
+<style type="text/css">
+    .tito-ticket.row .row:before, .tito-ticket.row.row .tito-ticket.row.row:after {content: none;
+    display: table;}
+    .tito-ticket.row.row:before, .tito-ticket.row.row:after{content: none;
+    display: table;}
+    .tito-ticket input{width:45px !important;display:inline-block;margin:5px 0;}
+    .tito-wrapper {background: #ecfaff!important;}
+</style>
+
 <div style="background: #000 url({{ '/img/vision.jpg' | prepend: site.baseurl }}) center top no-repeat; background-size:cover; padding:5em 0;">
 <div class="row">
   <div class="large-6 small-10 small-centered large-uncentered medium-uncentered columns ">
@@ -27,12 +36,12 @@ __September 14th, 2015__
 Registration Closes: <br>
 __November 18th, 2015__
 
-RSVP Conference Dinner: <br>
-__November 19th, 2015__
+<!--RSVP Conference Dinner: <br>
+__November 19th, 2015__-->
 
 </div>
 <div class="large-8 columns prose" markdown="1">
-Registration for the conference will open shortly.
+<h3>Tickets</h3>
 
 <!-- place this in your head tag -->
 <script src='https://js.tito.io/v1' async></script>
@@ -43,12 +52,12 @@ Registration for the conference will open shortly.
 
 The following exceptions to the ticket registration fee apply:
 
-- Conference attendence fee will be waved if registration is completely using an official EU institution email address.
+- Conference attendance fee will be waved if registration you are an ENTSO-E member, employee of a European institution or permanent representation.
 
-- If you are an interns, student or currently an academic.
+- Members of the media will also have the attendance fee waived.
 
-If you have any queries regarding the conference please do not hesitate to contact us at [__conference@entsoe.eu__](mailto:conferenceo@entsoe.eu)
+In order to avail of this please contact [__conference@entsoe.eu__](mailto:conferenceo@entsoe.eu) for further details.
 
-  
+
 </div>
 </div>

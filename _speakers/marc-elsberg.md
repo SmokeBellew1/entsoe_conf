@@ -13,3 +13,5 @@ full_image: ""
 ---
 
 Speaker bio to be confirmed.
+
+Writer. Best selling novel ZERO Germany's Science Book 2014! Internat. bestselling novel BLACKOUT, Germany's Science Book 2012. http://www.marcelsberg.com 
