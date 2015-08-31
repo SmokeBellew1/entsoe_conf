@@ -47,7 +47,7 @@ The following exceptions to the ticket registration fee apply:
 
 - If you are an interns, student or currently an academic.
 
-If you have any queries regarding the conference please do not hestiate to contact us at [__info@entsoe.eu__](mailto:info@entsoe.eu)
+If you have any queries regarding the conference please do not hesitate to contact us at [__conference@entsoe.eu__](mailto:conferenceo@entsoe.eu)
 
   
 </div>
