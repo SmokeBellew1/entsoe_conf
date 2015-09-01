@@ -1,5 +1,5 @@
 ---
-name: Geneviève PONS-DELADRIERE
+name: Geneviève Pons-Deladriere
 wtitle: "Director"
 org: "WWF European Policy Office"
 
