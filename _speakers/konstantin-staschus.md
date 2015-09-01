@@ -7,7 +7,7 @@ web: "http://www.entsoe.eu"
 twitter: "ENTSO_E"
 
 
-thumb: "https://www.entsoe.eu/PublishingImages/Human%20resources%20images/KST_01.jpg"
+thumb: "/img/speakers/konstantine.jpg"
 full_image: ""
 
 ---
