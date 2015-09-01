@@ -7,8 +7,8 @@ web: "https://ec.europa.eu/commission/2014-2019/oettinger_en"
 twitter: ""
 
 
-thumb: "https://ec.europa.eu/commission/sites/cwt/files/styles/biography_portrait_160x160/public/commissioner_portraits/oettinger.jpg?itok=Cngn5g7W"
-full_image: ""
+thumb: "http://d2ouvy59p0dg6k.cloudfront.net/img/genevieve_pons_ladrierefinal_505028.jpg"
+full_image: "http://d2ouvy59p0dg6k.cloudfront.net/img/genevieve_pons_ladrierefinal_505028.jpg"
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: Bente Hagem
-wtitle: "President"
+wtitle: "Chair"
 org: "ENTSO-E"
 
 web: "http://www.entsoe.eu"
