@@ -43,6 +43,9 @@ __November 19th, 2015__-->
 <div class="large-8 columns prose" markdown="1">
 <h3>Tickets</h3>
 
+By clicking **Continue** you confirm that you have read and agree with the [**ENTSO-E Privacy Policy**](https://www.entsoe.eu/disclaimer/annual_conference_privacy_policy/) for this event.
+{:class="warning alert-box radius"}
+
 <!-- place this in your head tag -->
 <script src='https://js.tito.io/v1' async></script>
 <link rel="stylesheet" type="text/css" href='https://css.tito.io/v1' />
