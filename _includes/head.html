@@ -19,6 +19,9 @@
 
 </head>
 <script type="text/javascript">
-  var IE = IE.CompatibilityMode;
-  if(IE){alert('You are using internet explorer in Compatibility Mode, we cannot display this website correctly when this mode is enabled.')}
+  var IE = IeVersion();
+  
+  if(IE.CompatibilityMode){alert('You are using internet explorer in Compatibility Mode, we cannot display this website correctly when this mode is enabled.')} else {console.log("you are not using IE Compatibility Mode")}
+
+  if(IE.CompatibilityMode){console.log("you are using IE Compatibility Mode")}
 </script>
