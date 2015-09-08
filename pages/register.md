@@ -3,6 +3,16 @@ layout: page1
 title: "Register"
 permalink: /register/
 ---
+<script type="text/javascript" src="//cdn.rawgit.com/Gavin-Paolucci-Kleinow/ie-truth/master/ie-truth.min.js"></script>
+<script type="text/javascript">
+window.onload = function() {
+    var IE = IeVersion();
+if(IE.IsIE){
+$('.ie').html('<a class="button large expand success" href="https://ti.to/entso-e/entso-e-annual-conference-2015">Continue</a>')
+}
+}
+</script>
+
 
 <style type="text/css">
     .tito-ticket.row .row:before, .tito-ticket.row.row .tito-ticket.row.row:after {content: none;
@@ -42,9 +52,11 @@ __November 19th, 2015__-->
 </div>
 <div class="large-8 columns prose" markdown="1">
 <h3>Tickets</h3>
-
+<div class="ie"></div>
 By clicking **Continue** you confirm that you have read and agree with the [**ENTSO-E Privacy Policy**](https://www.entsoe.eu/disclaimer/annual_conference_privacy_policy/) for this event.
 {:class="warning alert-box radius"}
+
+
 <!--[if IE]>
 <a class="button large expand success" href="https://ti.to/entso-e/entso-e-annual-conference-2015">Continue</a>
 <![endif]-->
