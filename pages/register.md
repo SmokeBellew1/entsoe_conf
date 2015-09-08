@@ -52,11 +52,11 @@ __November 19th, 2015__-->
 </div>
 <div class="large-8 columns prose" markdown="1">
 <h3>Tickets</h3>
-<div class="ie"></div>
+
 By clicking **Continue** you confirm that you have read and agree with the [**ENTSO-E Privacy Policy**](https://www.entsoe.eu/disclaimer/annual_conference_privacy_policy/) for this event.
 {:class="warning alert-box radius"}
 
-
+<div class="ie"></div>
 <!--[if IE]>
 <a class="button large expand success" href="https://ti.to/entso-e/entso-e-annual-conference-2015">Continue</a>
 <![endif]-->
