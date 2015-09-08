@@ -61,7 +61,7 @@ The following exceptions to the ticket registration fee apply:
 
 - Members of the media will also have the attendance fee waived.
 
-In order to avail of this please contact [__conference@entsoe.eu__](mailto:conferenceo@entsoe.eu) for further details.
+In order to avail of this please contact [**annualconference@entsoe.eu**](mailto:annualconference@entsoe.eu) for further details.
 
 
 </div>
