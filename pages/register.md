@@ -75,7 +75,7 @@ The conference registration fee will be waived if you fit the following criteria
 
 - An ENTSO-E member
 
-**In order to avail of this waiver please contact [**annualconference@entsoe.eu**](mailto:annualconference@entsoe.eu) for further details.**
+**In order to avail of this waiver please contact [annualconference@entsoe.eu](mailto:annualconference@entsoe.eu) for further details.**
 
 
 </div>
