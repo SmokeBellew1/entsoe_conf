@@ -5,7 +5,7 @@ permalink: /programme/
 ---
 <div class="row pad3">
   <div class="large-12 small-12 columns ">
-<h3>ScheduleThursday 19th November</h3>
+<h3>Schedule for Friday 20th November</h3>
 <p>Below you'll find the schedule for the ENTSO-E Annual Conference. And we have some surprises for you - but they are not included in the schedule as yet. <a href="http://twitter.com/ENTSO_E">Stay Updated</a></p>
 </div>
 </div>
