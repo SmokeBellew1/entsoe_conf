@@ -67,13 +67,15 @@ By clicking **Continue** you confirm that you have read and agree with the [**EN
 <!-- Place this where you want the widget to appear -->
 <tito-widget event="entso-e/entso-e-annual-conference-2015"></tito-widget>
 
-The following exceptions to the ticket registration fee apply:
+The conference registration fee will be waived if you fit the following criteria: 
 
-- Conference attendance fee will be waved if registration you are an ENTSO-E member, employee of a European institution or permanent representation.
+- A member of an EU Institutions or permanent representation
 
-- Members of the media will also have the attendance fee waived.
+- A members of the media
 
-In order to avail of this please contact [**annualconference@entsoe.eu**](mailto:annualconference@entsoe.eu) for further details.
+- An ENTSO-E member
+
+**In order to avail of this waiver please contact [**annualconference@entsoe.eu**](mailto:annualconference@entsoe.eu) for further details.**
 
 
 </div>
