@@ -1,5 +1,5 @@
 ---
-name: Kuba Gogolewsk
+name: Kuba Gogolewski
 wtitle: "Energy Expert"
 org: "Bankwatch"
 
