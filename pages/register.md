@@ -44,7 +44,7 @@ Registration Opens: <br>
 __September 14th, 2015__
 
 Registration Closes: <br>
-__November 18th, 2015__
+__November 15th, 2015__
 
 <!--RSVP Conference Dinner: <br>
 __November 19th, 2015__-->
