@@ -1,19 +1,15 @@
 ---
 layout: speaker
 category: speaker
-
 name: Peder Andreasen
-
-wtitle: "President"
+wtitle: President
 org: "ENTSO-E"
-
 web: "http://www.entsoe.eu"
-twitter: "ENTSO_E"
-
-
-thumb: "https://www.entsoe.eu/PublishingImages/board/peder_andreasen.jpg"
+twitter: ENTSO_E
+thumb: "https://www.entsoe.eu/PublishingImages/board/Peder%20Andreasen.jpg"
 full_image: ""
-
+published: true
 ---
+
 
 Speaker bio to be confirmed.
