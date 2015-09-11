@@ -4,6 +4,9 @@ layout: page1
 published: true
 permalink: /partners/
 ---
+
+<div class="small-centered large-7 medium-7 columns" markdown="1">
+
 # {{page.title}}
 
 ### Luxembourg Presidency
@@ -22,3 +25,11 @@ The Renewables Grid Initiative (RGI) promotes 100% integration of electricity pr
 ![fsr]({{'/img/fsr.png' | prepend: site.baseurl }})
 
 The Florence School of Regulation (FSR), was founded in 2004 by three European regulators, and has as mission to expose the European dimension and to contribute to the safeguarding of the common goods by ensuring high-level and independent debate on economically and socially sound regulation.
+
+### Energy Community
+![ecom]({{ '/img/energy_community.png' | prepend: site.baseurl}})
+{:style="max-width:250px;"}
+
+The Energy Community is about investments, economic development, security of energy supply and social stability; but – more than this – the Energy Community is also about solidarity, mutual trust and peace. The very existence of the Energy Community, only ten years after the end of the Balkan conflict, is a success in itself, as it stands as the first common institutional project undertaken by the non-European Union countries of South East Europe.
+
+</div>
