@@ -41,10 +41,10 @@ $('.ie').html('<a class="button large expand success" href="https://ti.to/entso-
 ### Key Dates
 
 Registration Opens: <br>
-__September 14th, 2015__
+__16 September 2015__
 
 Registration Closes: <br>
-__November 15th, 2015__
+__15 November 2015__
 
 <!--RSVP Conference Dinner: <br>
 __November 19th, 2015__-->
