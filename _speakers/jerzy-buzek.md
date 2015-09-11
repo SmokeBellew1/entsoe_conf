@@ -1,16 +1,14 @@
 ---
-name: Jerzy Buzek
+name: Jerzy Buzek (tbc)
 wtitle: "Member - ITRE Committee Chair"
-org: "European Parliament"
-
+org: European Parliament
 web: "http://www.buzek.pl/en/"
-twitter: "jerzybuzek"
-
-
+twitter: jerzybuzek
 thumb: "http://www.europarl.europa.eu/former_ep_presidents/president-buzek/ressource/static/images/portrait/Jerzy_Buzek_-_Official_photo_0.1.JPG"
 full_image: ""
-
+published: true
 ---
+
 
 Jerzy Buzek, born on 3 July 1940 in Śmiłowice (Silesia region) in Poland. Prime Minister of Poland and Member of the Polish Parliament (Sejm) in the years 1997-2001. 
 
