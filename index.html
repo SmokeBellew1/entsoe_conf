@@ -31,6 +31,7 @@ title: 'Home'
 <div class="row" >
   <div class="large-6 small-10 small-centered large-uncentered medium-uncentered columns" style="padding-top:1em;">
     <a class="button large register radius" href="{{ '/register'| prepend: site.baseurl }}"><strong>Register Today</strong></a>
+    <a class="button large register radius" style="background-color: #2c296b;"href="https://twitter.com/search?f=tweets&q=%23entsoe15&src=typd"><strong>#entsoe15</strong></a>
   </div>
 </div>
 
@@ -40,9 +41,9 @@ title: 'Home'
 <div class="row" style="padding-top:1em;">
   <div class="small-12 medium-12 large-12 columns small-centered">
   <ul class="inline-list sponsors">
-    <li><figure><img src="http://www.eu2015lu.eu/assets/img/presidence-luxembourg.png"> </figure></li>
-    <li><figure><img src="{{'/img/fsr.png' | prepend: site.baseurl }}"> </figure></li>
-    <li><figure><img src="http://renewables-grid.eu/fileadmin/regrid/images/logo.png"> </figure></li>
+    <li><a href="{{'/partners/#luxembourg-presidency' | prepend: site.baseurl }}"><figure><img src="http://www.eu2015lu.eu/assets/img/presidence-luxembourg.png"> </figure></a></li>
+    <li><a href="{{'/partners/#renewables-grid-initiative' | prepend: site.baseurl }}"><figure><img src="{{'/img/fsr.png' | prepend: site.baseurl }}"> </figure></a></li>
+    <li><a href="{{'/partners/#renewables-grid-initiative' | prepend: site.baseurl }}"><figure><img src="http://renewables-grid.eu/fileadmin/regrid/images/logo.png"> </figure></a></li>
   </ul>
   </div>
 </div>
@@ -78,7 +79,7 @@ title: 'Home'
     <p>ENTSO-E has assembled the key players in the European Energy Sector.</p>
     <ul class="small-block-grid-2 medium-block-grid-5 large-block-grid-5 speakers">
       {% for speaker in site.speakers %}
-      
+       
       <li>
         <div class="image" style="background-image:url('{{speaker.thumb}}');"></div>
         <figcaption>
