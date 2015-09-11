@@ -69,3 +69,8 @@ figcaption .sub-title:nth-child(even) {font-weight:500;}
 ul.sponsors {margin-bottom: 0;max-width: 42em;}
 .sponsors li {margin-left:0/*.3rem*/;text-align: center;}
 .sponsors li img {max-width:250px;}
+
+.inline li {
+    display: inline-block;
+    padding-right: 10px;
+}
