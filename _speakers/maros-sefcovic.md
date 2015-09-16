@@ -1,5 +1,5 @@
 ---
-name: Maroš Šefčovič (tbc)
+name: Maroš Šefčovič
 wtitle: "Vice-President of the EC"
 org: European Commission
 web: "http://ec.europa.eu/commission/2014-2019/sefcovic_en"
