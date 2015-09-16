@@ -20,6 +20,8 @@ Text to be added.
 
 The Renewables Grid Initiative (RGI) promotes 100% integration of electricity produced from renewable energy sources. TSOs and NGOs join forces in RGI to support the build-up of a sufficient grid infrastructure in Europe for both decentralised and large-scale renewable energy sources. RGI's 2nd annual 'Good practice of the year' award will be announced on 19 November during the pre-conference dinner. Find out more and apply here. Submission of good practice is possible until 13 August.
 
+### [European Grid Conference<br>19 November 2015](http://www.gridconference.eu/){:style="color:#FFFFFF;"}
+{:style="padding:2em;background:#63B662;color:#ffffff;"}
 
 ### Florence School of Regulation (FSR)
 ![fsr]({{'/img/fsr.png' | prepend: site.baseurl }})
