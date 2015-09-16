@@ -79,8 +79,8 @@ title: 'Home'
     <h3 id="what-can-be-achieved-by-2019-">The Speakers</h3>
     <p>ENTSO-E has assembled the key players in the European Energy Sector.</p>
     <ul class="small-block-grid-2 medium-block-grid-5 large-block-grid-5 speakers">
-      {% for speaker in site.speakers %}
-       
+      {% assign speakers = site.speakers | sort: 'home_order'  %}
+      {% for speaker in speakers %}
       <li>
         <div class="image" style="background-image:url('{{speaker.thumb}}');"></div>
         <figcaption>

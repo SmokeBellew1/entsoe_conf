@@ -9,7 +9,8 @@ permalink: /speakers/
 <p>Here you can find out everything you ever wanted to know about our speakers!</p>
 
 <div class="speaker-list">
-  {% for post in site.speakers %}
+  {% assign speakers = site.speakers | sort: 'home_order'  %}
+  {% for post in speakers %}
 
     <div class="row pad3 speaker-row">
       <div class="small-12 medium-4 large-3 columns speaker small-only-text-center">
