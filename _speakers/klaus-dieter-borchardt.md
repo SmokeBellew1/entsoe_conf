@@ -9,7 +9,7 @@ twitter: ""
 
 thumb: "http://www.cerre.eu/sites/cerre/files/customer_data/Klaus%20Dieter%20Borchardt2.jpg"
 full_image: ""
-
+home_order: 9
 ---
 
 Speaker bio to be confirmed.
