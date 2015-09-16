@@ -5,6 +5,7 @@ permalink: /media_section/
 published: true
 ---
 
+
 [**&larr; Return to Registration**]({{"/register" | prepend: site.baseurl}})
 
 ## Media accreditation
@@ -15,7 +16,7 @@ __By doing so they will benefit from the following services during the event:__
 
 - Free registration including lunch and refreshments
 - Press Room access
-- Free internet/printer access
+- Free internet access
 - Admission to the press conference
 - Admission to all conference sessions
 - One-on-one interview opportunities
