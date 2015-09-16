@@ -71,7 +71,7 @@ The conference registration fee will be waived if you fit the following criteria
 
 - A member of an EU Institutions or permanent representation
 
-- A members of the media
+- [A members of the media - **Please review conditions on media page**]({{"/media_section" | prepend: site.baseurl}})
 
 - An ENTSO-E member
 
