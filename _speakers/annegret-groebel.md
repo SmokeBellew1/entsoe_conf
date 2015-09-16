@@ -6,7 +6,7 @@ web: "http://www.ceer.eu/portal/page/portal/EER_HOME"
 twitter: ""
 thumb: "http://www.ceer.eu/portal/pls/portal/docs/1/21966555.JPG"
 full_image: ""
-published: true
+published: false
 ---
 
 
