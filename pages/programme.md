@@ -38,7 +38,8 @@ published: true
           {% endunless %}
       </div>
       <div class="small-12 medium-2 large-3 columns last text-center speakers">
-        {% for s in site.speakers %}
+        {% assign speakers = site.speakers | sort: 'home_order'  %}
+        {% for s in speakers %}
         
         {% if post.tags contains s.name %}
         <a href="{{ s.url | prepend: site.baseurl }}">
@@ -47,7 +48,6 @@ published: true
             <h4 class="title">{{s.name}}</h4>
             <span class="sub-title">{{s.wtitle}}</span>
             <span class="sub-title">{{s.org}}</span>
-          
           </figcaption>
         </a>
 
