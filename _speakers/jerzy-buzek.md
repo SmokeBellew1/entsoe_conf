@@ -7,6 +7,7 @@ twitter: jerzybuzek
 thumb: "http://www.europarl.europa.eu/former_ep_presidents/president-buzek/ressource/static/images/portrait/Jerzy_Buzek_-_Official_photo_0.1.JPG"
 full_image: ""
 published: true
+home_order: 12
 ---
 
 
