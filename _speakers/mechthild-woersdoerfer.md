@@ -1,5 +1,5 @@
 ---
-name: Mechthild Woersdoerfer (tbc)
+name: Mechthild Woersdoerfer
 wtitle: "Director, Directorate A: Energy Policy, DG ENER"
 org: European Commission
 web: "http://ec.europa.eu/energy/"
@@ -8,6 +8,7 @@ thumb: "https://pbs.twimg.com/profile_images/570976293227728896/1seqNvpK.jpeg"
 full_image: ""
 published: true
 ---
+
 
 
 Speaker bio to be confirmed.
