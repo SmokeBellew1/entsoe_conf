@@ -34,4 +34,9 @@ The Florence School of Regulation (FSR), was founded in 2004 by three European r
 
 The Energy Community is about investments, economic development, security of energy supply and social stability; but – more than this – the Energy Community is also about solidarity, mutual trust and peace. The very existence of the Energy Community, only ten years after the end of the Balkan conflict, is a success in itself, as it stands as the first common institutional project undertaken by the non-European Union countries of South East Europe.
 
+### FTI CL Energy
+![ecom]({{ '/img/fti_logo.jpg' | prepend: site.baseurl}})
+{:style="max-width:250px;"}
+FTI Intelligence has a team of seasoned FTI-CL Energy industry experts providing in-depth analysis of these market dynamics. The FTI-CL Energy team is a collaboration between experts from Compass Lexecon and FTI, in the fields of natural gas, electric power, renewables and other forms of energy, bringing together industry expertise and economic skills from the two entities. Compass Lexecon continues to operate as a stand-alone entity, outside of this collaborative effort.
+
 </div>
