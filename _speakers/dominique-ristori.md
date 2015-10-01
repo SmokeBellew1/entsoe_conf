@@ -1,5 +1,5 @@
 ---
-name: Dominique Ristori
+name: Dominique Ristori (tbc)
 wtitle: "Director General for Energy"
 org: European Commission
 web: "https://ec.europa.eu/energy/"

@@ -82,7 +82,8 @@ title: 'Home'
     <ul class="small-block-grid-2 medium-block-grid-5 large-block-grid-5 speakers">
       {% assign speakers = site.speakers | sort: 'home_order'  %}
       {% for speaker in speakers %}
-      {% if speaker.home_order %}
+      {% if speaker.home_order  %}
+
       <li>
         <div class="image" style="background-image:url('{{speaker.thumb}}');"></div>
         <figcaption>
@@ -97,6 +98,7 @@ title: 'Home'
 
       {% for speaker in site.speakers %}
       {% unless speaker.home_order %}
+      {% if speaker.published == true %}
       <li>
         <div class="image" style="background-image:url('{{speaker.thumb}}');"></div>
         <figcaption>
@@ -105,6 +107,7 @@ title: 'Home'
           <span class="sub-title">{{speaker.org}}</span>
         </figcaption>
       </li>
+      {% endif %}
       {% endunless %}
       {% endfor %}
      

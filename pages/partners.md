@@ -12,9 +12,6 @@ permalink: /partners/
 ### Luxembourg Presidency
 ![lux](http://www.eu2015lu.eu/assets/img/presidence-luxembourg.png)
 
-Text to be added.
-
-
 ### Renewables Grid Initiative
 ![rgi](http://renewables-grid.eu/fileadmin/regrid/images/logo.png)
 
@@ -37,6 +34,5 @@ The Energy Community is about investments, economic development, security of ene
 ### FTI CL Energy
 ![ecom]({{ '/img/fti_logo.jpg' | prepend: site.baseurl}})
 {:style="max-width:250px;"}
-FTI Intelligence has a team of seasoned FTI-CL Energy industry experts providing in-depth analysis of these market dynamics. The FTI-CL Energy team is a collaboration between experts from Compass Lexecon and FTI, in the fields of natural gas, electric power, renewables and other forms of energy, bringing together industry expertise and economic skills from the two entities. Compass Lexecon continues to operate as a stand-alone entity, outside of this collaborative effort.
 
 </div>

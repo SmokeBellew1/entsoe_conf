@@ -48,6 +48,7 @@ permalink: /speakers/
   {% endfor %}
   {% for post in site.speakers %}
     {% unless post.home_order %}
+    {% if post.published == true %}
     <div class="row pad3 speaker-row">
       <div class="small-12 medium-4 large-3 columns speaker small-only-text-center">
           <h3 id="{{ post.name | slugify }}" class="name">{{post.name}}</h3>
@@ -80,6 +81,7 @@ permalink: /speakers/
         {{post.content}}
       </div>
     </div>
+    {%endif%}
     {% endunless %}
   {% endfor %}
 </div> 
