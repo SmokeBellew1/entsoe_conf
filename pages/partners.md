@@ -35,4 +35,6 @@ The Energy Community is about investments, economic development, security of ene
 ![ecom]({{ '/img/fti_logo.jpg' | prepend: site.baseurl}})
 {:style="max-width:250px;"}
 
+The FTI-CL Energy team is a collaboration between experts from FTI Consulting and Compass Lexecon (a wholly owned subsidiary of FTI Consulting) in the fields of natural gas, electric power, renewables and other forms of energy, bringing together market leading industry expertise and economic excellence.  FTI Consulting is a global business advisory firm dedicated to helping organisations protect and enhance enterprise value, and has offices in all major business centres throughout the world.
+ 
 </div>
