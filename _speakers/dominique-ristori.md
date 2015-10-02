@@ -1,6 +1,6 @@
 ---
-name: Dominique Ristori (tbc)
-wtitle: "Director General for Energy"
+name: Dominique Ristori
+wtitle: Director General for Energy
 org: European Commission
 web: "https://ec.europa.eu/energy/"
 twitter: ""
@@ -9,6 +9,7 @@ full_image: ""
 published: true
 home_order: 12
 ---
+
 
 Dominique Ristori has worked in the European Commission since 1978 and has held several senior positions. Prior to his current posting, he was Director-General of the Joint Research Centre (JRC) from 2010 to 2013.
 Between 2006 and 2010 Mr Ristori was Deputy Director General of DG Energy and Transport.
