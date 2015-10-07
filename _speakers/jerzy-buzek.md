@@ -1,5 +1,5 @@
 ---
-name: Jerzy Buzek (tbc)
+name: Jerzy Buzek
 wtitle: "Member - ITRE Committee Chair"
 org: European Parliament
 web: "http://www.buzek.pl/en/"
