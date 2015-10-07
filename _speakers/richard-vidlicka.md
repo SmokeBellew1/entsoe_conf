@@ -9,7 +9,7 @@ twitter: ""
 
 thumb: "/img/speakers/r_vidlicka.jpg"
 full_image: ""
-
+published: true
 ---
 
 Richard Vidlička is a graduate of the University of Economics in Prague and he gained MBA degree at the Katz Business School at the University of Pittsburgh. 

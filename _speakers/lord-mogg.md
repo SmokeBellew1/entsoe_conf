@@ -9,7 +9,7 @@ twitter: ""
 
 thumb: "http://www.bath.ac.uk/management/images/photographs/releases/1-07-08.jpg"
 full_image: ""
-
+published: true
 ---
 
 Speaker bio to be confirmed.

@@ -10,6 +10,7 @@ twitter: "ENTSO_E"
 thumb: "/img/speakers/konstantine.jpg"
 full_image: ""
 home_order: 8
+published: true
 ---
 
 Konstantin Staschus is Secretary-General of the European Network of Transmission System Operators for Electricity (ENTSO-E), a position he has occupied since February 2009.

@@ -9,6 +9,7 @@ twitter:
 thumb: "http://www.tennet.eu/nl/fileadmin/_processed_/csm_Ben_Voorhorst_3c013121b4.jpg"
 full_image: ""
 home_order: 7
+published: true
 ---
 
 Ben Voorhorst current principal position is Chief Operating Officer of Tennet.

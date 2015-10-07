@@ -7,7 +7,6 @@ twitter: abayraktar1
 thumb: "https://pbs.twimg.com/profile_images/634241792137936896/MqIc4DRI_400x400.jpg"
 full_image: ""
 published: true
-
 ---
 
 

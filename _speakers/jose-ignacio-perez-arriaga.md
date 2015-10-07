@@ -8,6 +8,7 @@ twitter: "ENTSO_E"
 
 thumb: "http://www.iit.upcomillas.es/personal/fotos/2047.jpg"
 full_image: ""
+published: true
 
 ---
 

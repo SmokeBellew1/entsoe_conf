@@ -9,7 +9,7 @@ twitter: ""
 
 thumb: "http://bankwatch.org/sites/default/files/KubaGogolewski.jpg?1331201315"
 full_image: ""
-
+published: true
 ---
 
 Kuba Gogolewski has a MSc in Economics from the Warsaw School of Economics in Poland. Before joining CEE Bankwatch Network

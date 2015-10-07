@@ -6,6 +6,7 @@ web: "http://fsr.eui.eu/Home.aspx"
 twitter: "jmglachant"
 thumb: "https://pbs.twimg.com/profile_images/561258913891639296/Hro6CFpW.jpeg"
 full_image: "https://pbs.twimg.com/profile_images/561258913891639296/Hro6CFpW.jpeg"
+published: true
 ---
 
 Jean-Michel Glachant is Director of the Florence School of Regulation and Holder of the Loyola de Palacio Chair at the European University Institute, Florence.

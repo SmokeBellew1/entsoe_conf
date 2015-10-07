@@ -8,6 +8,7 @@ thumb: "https://www.entsoe.eu/PublishingImages/board/matteo_del_fante.jpg"
 full_image: ""
 published: true
 home_order: 6
+published: true
 ---
 
 
