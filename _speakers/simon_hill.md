@@ -7,7 +7,7 @@ web: "http://www.opower.com/"
 twitter: ""
 
 
-thumb: "http://www.meteringsummit.ie/site/uploads/smart-metering/simon-hill-04.jpg"
+thumb: "/img/speakers/simon_hill.jpg"
 full_image: "http://www.meteringsummit.ie/site/uploads/smart-metering/simon-hill-04.jpg"
 published: true
 ---
