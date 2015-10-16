@@ -6,7 +6,7 @@ org: "BP Chair on Sustainable Development, IIT, Comillas University, Professor, 
 web: "http://www.iit.upcomillas.es/people/ignacio"
 twitter: "ENTSO_E"
 
-thumb: "http://www.iit.upcomillas.es/personal/fotos/2047.jpg"
+thumb: "/img/speakers/perez.jpg"
 full_image: ""
 published: true
 

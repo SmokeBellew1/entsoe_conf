@@ -28,15 +28,36 @@ permalink: /speakers/
           <dt>Twitter</dt>
           <dd><a href="https://twitter.com/{{post.twitter}}">@{{post.twitter}}</a></dd>
           {% endunless %}
-          <dt>Speaking on:</dt>
-          <dd>
-            {% for s in site.categories.programme %}
+
+          {% for s in site.categories.programme %}
             {% if s.tags contains post.name %}
+            {% assign speaking_on1 = true %}
+              {%break%}
+            {% else %}
+              {% assign speaking_on1 = false %}
+            {%endif%}
+          {% endfor %}
+
+          {% if speaking_on1 == true %}
+          <dt>Speaking on:</dt>
+          {%endif%}
+
+            {% for s in site.categories.programme %}
+            {% if s.tags contains post.name %}              
+              <dd>
               <a style="display:block;padding-bottom:1em;" href="{{s.url | prepend: site.baseurl}}">{{s.title}}</a>
+              </dd>
             {% endif %}
             {% endfor %}
-
-      </dd>
+     
+      {% for s in site.categories.programme %}
+            {% if s.panel contains post.name %}
+          <dt>Part of Panel:</dt>
+          <dd>
+              <a style="display:block;padding-bottom:1em;" href="{{s.url | prepend: site.baseurl}}">{{s.title}}</a>
+          </dd>
+        {% endif %}
+      {% endfor %}
         </dl>
         
       </div>
@@ -66,15 +87,35 @@ permalink: /speakers/
           <dt>Twitter</dt>
           <dd><a href="https://twitter.com/{{speaker.twitter}}">@{{speaker.twitter}}</a></dd>
           {% endunless %}
+          
+          {% for s in site.categories.programme %}
+            {% if s.tags contains speaker.name %}
+            {% assign speaking_on2 = true %}
+            {% break %}
+            {% else %}
+              {%assign speaking_on2 = false %}
+            {%endif%}
+          {% endfor %}
+
+          {% if speaking_on2 == true %}
           <dt>Speaking on:</dt>
-          <dd>
+          {%endif%}
             {% for s in site.categories.programme %}
             {% if s.tags contains speaker.name %}
+              <dd>
               <a style="display:block;padding-bottom:1em;" href="{{s.url | prepend: site.baseurl}}">{{s.title}}</a>
+              </dd>
             {% endif %}
             {% endfor %}
 
-      </dd>
+         {% for s in site.categories.programme %}
+            {% if s.panel contains speaker.name %}
+          <dt>Part of Panel:</dt>
+          <dd>
+              <a style="display:block;padding-bottom:1em;" href="{{s.url | prepend: site.baseurl}}">{{s.title}}</a>
+          </dd>
+        {% endif %}
+      {% endfor %}
         </dl>
         
       </div>

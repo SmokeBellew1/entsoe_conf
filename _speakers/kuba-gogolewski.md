@@ -7,7 +7,7 @@ web: "http://bankwatch.org/"
 twitter: ""
 
 
-thumb: "http://bankwatch.org/sites/default/files/KubaGogolewski.jpg?1331201315"
+thumb: "/img/speakers/KubaGogolewski.jpg"
 full_image: ""
 published: true
 ---

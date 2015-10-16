@@ -4,7 +4,7 @@ wtitle: "Director"
 org: "Florence School of Regulation"
 web: "http://fsr.eui.eu/Home.aspx"
 twitter: "jmglachant"
-thumb: "https://pbs.twimg.com/profile_images/561258913891639296/Hro6CFpW.jpeg"
+thumb: "/img/speakers/jmc.jpg"
 full_image: "https://pbs.twimg.com/profile_images/561258913891639296/Hro6CFpW.jpeg"
 published: true
 ---

@@ -5,7 +5,7 @@ org: "RGI"
 
 web: "http://www.renewables-grid.eu/"
 twitter: "Theresa_RGI"
-thumb: "http://renewables-grid.eu/typo3temp/pics/890c90b5a7.jpg"
+thumb: "/img/speakers/antonella.jpg"
 full_image: ""
 home_order: 5
 ---

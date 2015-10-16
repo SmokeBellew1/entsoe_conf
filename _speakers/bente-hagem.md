@@ -4,7 +4,7 @@ wtitle: "Chair"
 org: "ENTSO-E"
 web: "http://www.entsoe.eu"
 twitter: "ENTSO_E"
-thumb: "https://www.entsoe.eu/PublishingImages/board/bente_hagem.jpg"
+thumb: "/img/speakers/bente_hagem.jpg"
 full_image: ""
 home_order: 4
 published: true

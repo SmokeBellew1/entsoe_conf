@@ -7,7 +7,7 @@ web: "http://ec.europa.eu/energy/"
 twitter: ""
 
 
-thumb: "http://www.gridconference.eu/wp-content/uploads/2015/01/Marie-Donnelly.jpg"
+thumb: "/img/speakers/Marie-Donnelly.jpg"
 full_image: ""
 published: true
 ---

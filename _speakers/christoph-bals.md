@@ -7,7 +7,7 @@ web: "https://germanwatch.org/en/"
 twitter: ""
 
 
-thumb: "https://germanwatch.org/sites/germanwatch.org/files/images/Christoph-Bals.jpg"
+thumb: "/img/speakers/christoph_bals.jpg"
 full_image: ""
 published: true
 ---

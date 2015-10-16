@@ -4,7 +4,7 @@ wtitle: Director General for Energy
 org: European Commission
 web: "https://ec.europa.eu/energy/"
 twitter: ""
-thumb: "https://pbs.twimg.com/profile_images/470005962539941888/73bWPrx9.jpeg"
+thumb: "/img/speakers/d_ristori.jpg"
 full_image: ""
 published: true
 home_order: 12

@@ -4,7 +4,7 @@ wtitle: "CEO & President"
 org: "EDP & EURELECTRIC"
 web: "http://www.eurelectric.org/about-us/board-of-directors/presidential-team/"
 twitter: ""
-thumb: "http://www.eurelectric.org/media/81802/mexia.jpg"
+thumb: "/img/speakers/mexia.jpg"
 full_image: ""
 published: true
 ---

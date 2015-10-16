@@ -6,7 +6,7 @@ org: "Tennet"
 web: "http://www.tennet.eu/"
 twitter: 
 
-thumb: "http://www.tennet.eu/nl/fileadmin/_processed_/csm_Ben_Voorhorst_3c013121b4.jpg"
+thumb: "/img/speakers/ben_voorhorst.jpg"
 full_image: ""
 home_order: 7
 published: true

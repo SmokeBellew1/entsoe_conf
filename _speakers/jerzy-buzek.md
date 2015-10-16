@@ -4,7 +4,7 @@ wtitle: "Member - ITRE Committee Chair"
 org: European Parliament
 web: "http://www.buzek.pl/en/"
 twitter: jerzybuzek
-thumb: "https://pbs.twimg.com/profile_images/514007835126939650/AbB4Og_0_400x400.jpeg"
+thumb: "/img/speakers/buzeck.jpg"
 full_image: ""
 published: true
 home_order: 12

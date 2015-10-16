@@ -6,7 +6,7 @@ wtitle: President
 org: "ENTSO-E"
 web: "http://www.entsoe.eu"
 twitter: ENTSO_E
-thumb: "https://www.entsoe.eu/PublishingImages/board/Peder%20Andreasen.jpg"
+thumb: "/img/speakers/PederAndreasen.jpg"
 full_image: ""
 published: true
 home_order: 3

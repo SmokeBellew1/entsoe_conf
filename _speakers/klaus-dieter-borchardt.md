@@ -7,7 +7,7 @@ web: "http://ec.europa.eu/energy/"
 twitter: ""
 
 
-thumb: "http://www.cerre.eu/sites/cerre/files/customer_data/Klaus%20Dieter%20Borchardt2.jpg"
+thumb: "/img/speakers/KlausDieterBorchardt.jpg"
 full_image: ""
 home_order: 9
 published: true
