@@ -7,10 +7,9 @@ thumb: "/img/speakers/christian-buchel.jpg"
 published: true
 ---
 
-
 Christian Buchel is the __Deputy-CEO, Chief Digital & International Officer (CDIO), of Electricité Réseau Distribution France (ERDF)__, distribution system operator in charge of operating, developing and maintaining the medium-voltage and low-voltage power grids across 95% of France’s mainland territory.
 
-He is also __Vice-Chaiman of EDSO__, a European association representing leading electricity distribution system companies that are cooperating to bring European Smart Grids from vision to reality.
+He is also __Vice-Chairman of EDSO__, a European association representing leading electricity distribution system companies that are cooperating to bring European Smart Grids from vision to reality.
 
 Prior to this, Christian Buchel has held various top-management positions within the EDF Group. He has notably been Member of the Board and COO of Energie Baden-Württemberg (EnBW) in Germany as well as CEO of Electricité de Strasbourg.
 

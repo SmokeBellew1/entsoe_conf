@@ -6,7 +6,7 @@ web: "http://www.entsog.eu/"
 twitter: ENTSOG
 thumb: "/img/speakers/Kamphues_Stephan_for_web.jpg"
 full_image: ""
-published: true
+published: false
 ---
 
 

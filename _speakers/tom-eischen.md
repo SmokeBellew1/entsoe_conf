@@ -10,4 +10,6 @@ published: true
 home_order: 2
 ---
 
-Tom Eischen is Director General of the General Directorate for Energy and Government Commissioner for Energy of the Ministry of the Economy of the Grand-Duchy of Luxembourg. His reponsabilities extend to energy policy issues including the sectors of electricity, natural gas, oil products, renewable energy and energy efficiency.
+Tom Eischen is Director General of the General Directorate for Energy and Government Commissioner for Energy of the Ministry of the Economy of the Grand-Duchy of Luxembourg. 
+
+His responsibilities extend to energy policy issues including the sectors of electricity, natural gas, oil products, renewable energy and energy efficiency.
