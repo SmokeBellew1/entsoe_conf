@@ -11,7 +11,7 @@ permalink: /partners/
 # {{page.title}}
 
 ### Luxembourg Presidency
-![lux](http://www.eu2015lu.eu/assets/img/presidence-luxembourg.jpg)
+![lux]({{'/img/presidence-luxembourg.jpg' | prepend: site.baseurl}})
 
 ### Renewables Grid Initiative
 ![rgi](http://renewables-grid.eu/fileadmin/regrid/images/logo.png)
