@@ -6,7 +6,7 @@ web: "http://www.ge.com/europe/"
 twitter: stephanreimelt
 thumb: "/img/speakers/stephan-reimelt.jpg"
 full_image: ""
-published: true
+published: false
 ---
 
 
