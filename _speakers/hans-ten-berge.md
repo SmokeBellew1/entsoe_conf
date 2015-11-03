@@ -4,9 +4,10 @@ wtitle: Secretary General
 web: "http://www.eurelectric.org/"
 twitter: EURELECTRIC
 thumb: "http://www.eurelectric.org/media/154653/hans_big.jpg"
-published: false
+published: true
 org: EURELECTRIC
 ---
+
 
 
 Hans ten Berge was appointed Secretary General of the Union of the Electricity Industry – EURELECTRIC in 2007. 
