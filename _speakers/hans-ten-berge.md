@@ -5,6 +5,7 @@ web: "http://www.eurelectric.org/"
 twitter: EURELECTRIC
 thumb: "http://www.eurelectric.org/media/154653/hans_big.jpg"
 published: false
+org: EURELECTRIC
 ---
 
 
@@ -15,4 +16,3 @@ The Union of the Electricity Industry-EURELECTRIC is the association representin
 Following posts in a number of international enterprises, including Exxon Chemie, he did serve as a Member of the Board of ENECO Energie (Major Dutch Utility Company)
 
 Born in Eindhoven in 1951, Dutch citizen Hans ten Berge holds a degree in Chemistry from the Rijksuniversiteit in Utrecht and also graduated from the University of Delft in business administration.
-
